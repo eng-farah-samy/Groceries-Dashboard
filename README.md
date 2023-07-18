@@ -1,6 +1,6 @@
 # Groceries-Dashboard
 our clients want us to analyze these Groceries dataset to give them meaningful information and answer their questions
-# The work i did 
+# The analysis process I did
 1- understand the client's needs <br />
 2- prepare the dataset <br />
 3- cleaning the data include: <br />
